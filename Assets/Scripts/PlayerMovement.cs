@@ -61,7 +61,14 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "Ground") grounded = true;
+        if (collision.gameObject.tag == "Ground")
+        {
+            grounded = true;
+        }
+        else if (collision.gameObject.tag == "Kill")
+        {
+            transform.position = new Vector3(0, 0, 0);
+        }
     }
 
 }
