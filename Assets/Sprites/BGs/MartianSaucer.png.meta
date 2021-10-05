@@ -1,0 +1,2220 @@
+fileFormatVersion: 2
+guid: 40e416d71ef7b2d4dad0a267d62bc37e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5420491152238523
+    second: MartianSaucer_0
+  - first:
+      213: 4897761335290068691
+    second: MartianSaucer_1
+  - first:
+      213: 8072339496579527861
+    second: MartianSaucer_2
+  - first:
+      213: -1660562330632284848
+    second: MartianSaucer_3
+  - first:
+      213: -5244612363610733749
+    second: MartianSaucer_4
+  - first:
+      213: -7265210268062181327
+    second: MartianSaucer_5
+  - first:
+      213: -4470397379821057522
+    second: MartianSaucer_6
+  - first:
+      213: -6701371389744219387
+    second: MartianSaucer_7
+  - first:
+      213: -5086855525984235682
+    second: MartianSaucer_8
+  - first:
+      213: 4805430283533971948
+    second: MartianSaucer_9
+  - first:
+      213: 8303581603127019659
+    second: MartianSaucer_10
+  - first:
+      213: 8212750300706820544
+    second: MartianSaucer_11
+  - first:
+      213: 2786422933705046322
+    second: MartianSaucer_12
+  - first:
+      213: 4908777582812656375
+    second: MartianSaucer_13
+  - first:
+      213: 3035868668589998694
+    second: MartianSaucer_14
+  - first:
+      213: -7908319510014711240
+    second: MartianSaucer_15
+  - first:
+      213: -4298848592686979024
+    second: MartianSaucer_16
+  - first:
+      213: 8611382575843218962
+    second: MartianSaucer_17
+  - first:
+      213: 3603828001507113337
+    second: MartianSaucer_18
+  - first:
+      213: -5676478765944857898
+    second: MartianSaucer_19
+  - first:
+      213: 4815796767424855410
+    second: MartianSaucer_20
+  - first:
+      213: 8470719775282716303
+    second: MartianSaucer_21
+  - first:
+      213: 2738512660896653125
+    second: MartianSaucer_22
+  - first:
+      213: 5434449158099529812
+    second: MartianSaucer_23
+  - first:
+      213: 1924690578299031676
+    second: MartianSaucer_24
+  - first:
+      213: 855017610684204498
+    second: MartianSaucer_25
+  - first:
+      213: 4466338578289297838
+    second: MartianSaucer_26
+  - first:
+      213: -6436387245862799172
+    second: MartianSaucer_27
+  - first:
+      213: 234455582350944655
+    second: MartianSaucer_28
+  - first:
+      213: 8324949662966632843
+    second: MartianSaucer_29
+  - first:
+      213: -1144565201616628052
+    second: MartianSaucer_30
+  - first:
+      213: 5084637894995593957
+    second: MartianSaucer_31
+  - first:
+      213: 1638006146916120350
+    second: MartianSaucer_32
+  - first:
+      213: 6390908847525561176
+    second: MartianSaucer_33
+  - first:
+      213: 9060586675788119996
+    second: MartianSaucer_34
+  - first:
+      213: 6485829768346066623
+    second: MartianSaucer_35
+  - first:
+      213: -7124475221262888361
+    second: MartianSaucer_36
+  - first:
+      213: 8808060059644385393
+    second: MartianSaucer_37
+  - first:
+      213: 5746241710267831288
+    second: MartianSaucer_38
+  - first:
+      213: 4848583550129255212
+    second: MartianSaucer_39
+  - first:
+      213: -2970087093110826017
+    second: MartianSaucer_40
+  - first:
+      213: -3956489176957679957
+    second: MartianSaucer_41
+  - first:
+      213: 6619994443709208158
+    second: MartianSaucer_42
+  - first:
+      213: -2013950251791920448
+    second: MartianSaucer_43
+  - first:
+      213: 4406938001810557682
+    second: MartianSaucer_44
+  - first:
+      213: -102011284958443301
+    second: MartianSaucer_45
+  - first:
+      213: -266153308507822578
+    second: MartianSaucer_46
+  - first:
+      213: 4281773628864103230
+    second: MartianSaucer_47
+  - first:
+      213: 2711597606223609347
+    second: MartianSaucer_48
+  - first:
+      213: -5798975543850869247
+    second: MartianSaucer_49
+  - first:
+      213: 7349620830092883049
+    second: MartianSaucer_50
+  - first:
+      213: 5361917315803450983
+    second: MartianSaucer_51
+  - first:
+      213: 5512097839141617054
+    second: MartianSaucer_52
+  - first:
+      213: 5034352192188341984
+    second: MartianSaucer_53
+  - first:
+      213: 347880060054831636
+    second: MartianSaucer_54
+  - first:
+      213: 6371072812201322596
+    second: MartianSaucer_55
+  - first:
+      213: -7352885780572989293
+    second: MartianSaucer_56
+  - first:
+      213: -7510679718814859164
+    second: MartianSaucer_57
+  - first:
+      213: -4367743038452685735
+    second: MartianSaucer_58
+  - first:
+      213: -4651216643980603542
+    second: MartianSaucer_59
+  - first:
+      213: -1807370675789510923
+    second: MartianSaucer_60
+  - first:
+      213: -8501403764536246829
+    second: MartianSaucer_61
+  - first:
+      213: 8798366511740060490
+    second: MartianSaucer_62
+  - first:
+      213: 5307849057784161951
+    second: MartianSaucer_63
+  - first:
+      213: -616542212117180252
+    second: MartianSaucer_64
+  - first:
+      213: 4786265848912928842
+    second: MartianSaucer_65
+  - first:
+      213: 6168763346512834756
+    second: MartianSaucer_66
+  - first:
+      213: 801333098291965995
+    second: MartianSaucer_67
+  - first:
+      213: 4110000101545379768
+    second: MartianSaucer_68
+  - first:
+      213: -8991723540781863311
+    second: MartianSaucer_69
+  - first:
+      213: 4026151067074853409
+    second: MartianSaucer_70
+  - first:
+      213: -4920603652403845734
+    second: MartianSaucer_71
+  - first:
+      213: 7639995429514441579
+    second: MartianSaucer_72
+  - first:
+      213: 6088843904336888239
+    second: MartianSaucer_73
+  - first:
+      213: -7502273678931880606
+    second: MartianSaucer_74
+  - first:
+      213: 6923585032450832392
+    second: MartianSaucer_75
+  - first:
+      213: -7489499676254326836
+    second: MartianSaucer_76
+  - first:
+      213: 6016493257949689711
+    second: MartianSaucer_77
+  - first:
+      213: -7760329320472776061
+    second: MartianSaucer_78
+  - first:
+      213: 4931732434685500699
+    second: MartianSaucer_79
+  - first:
+      213: 1327179329259181287
+    second: MartianSaucer_80
+  - first:
+      213: 4755234110100173017
+    second: MartianSaucer_81
+  - first:
+      213: 5493666544401007400
+    second: MartianSaucer_82
+  - first:
+      213: 2018379580295884026
+    second: MartianSaucer_83
+  - first:
+      213: 548683098687983556
+    second: MartianSaucer_84
+  - first:
+      213: 195452233959438433
+    second: MartianSaucer_85
+  - first:
+      213: 4748463446375799395
+    second: MartianSaucer_86
+  - first:
+      213: -4303440905898232536
+    second: MartianSaucer_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MartianSaucer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2058
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb723a178e1431000800000000000000
+      internalID: 5420491152238523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2058
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de7b982cf758f340800000000000000
+      internalID: 4897761335290068691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2058
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b47af7c006b60070800000000000000
+      internalID: 8072339496579527861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2058
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055944bbb5f74f8e0800000000000000
+      internalID: -1660562330632284848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b434c5aa7d46737b0800000000000000
+      internalID: -5244612363610733749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1960
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13812a101c9cc2b90800000000000000
+      internalID: -7265210268062181327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1960
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0acdeaa445f5f1c0800000000000000
+      internalID: -4470397379821057522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1960
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b7456f932fff2a0800000000000000
+      internalID: -6701371389744219387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1862
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f0af5b9dbd769b0800000000000000
+      internalID: -5086855525984235682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1862
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce172f2f16150b240800000000000000
+      internalID: 4805430283533971948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1862
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88cad9497f3c3370800000000000000
+      internalID: 8303581603127019659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_11
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1862
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1dc9ea2ec89f170800000000000000
+      internalID: 8212750300706820544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1764
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239bd7525ec5ba620800000000000000
+      internalID: 2786422933705046322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1764
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2f2f8243b7f1440800000000000000
+      internalID: 4908777582812656375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1764
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6628b082872912a20800000000000000
+      internalID: 3035868668589998694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_15
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1764
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a28434e41004290800000000000000
+      internalID: -7908319510014711240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1666
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03864b13bfb6754c0800000000000000
+      internalID: -4298848592686979024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1666
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2169f12e3d6c18770800000000000000
+      internalID: 8611382575843218962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_18
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1666
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979ff65397e530230800000000000000
+      internalID: 3603828001507113337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_19
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1666
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da1fcc33a81931b0800000000000000
+      internalID: -5676478765944857898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1568
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d35d015a525d240800000000000000
+      internalID: 4815796767424855410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1568
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e5a9d71ca0e8570800000000000000
+      internalID: 8470719775282716303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_22
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1568
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f97ad71c6210620800000000000000
+      internalID: 2738512660896653125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_23
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1568
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450717267ba0b6b40800000000000000
+      internalID: 5434449158099529812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1470
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c701e0e22efd5ba10800000000000000
+      internalID: 1924690578299031676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_25
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1470
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d50981acf1addb00800000000000000
+      internalID: 855017610684204498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1470
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea98e85f54f9bfd30800000000000000
+      internalID: 4466338578289297838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_27
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1470
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb83e7db6eb5da6a0800000000000000
+      internalID: -6436387245862799172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1372
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89a2a52c14f04300800000000000000
+      internalID: 234455582350944655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1372
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81522a6c99288370800000000000000
+      internalID: 8324949662966632843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_30
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1372
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca61e576300bd10f0800000000000000
+      internalID: -1144565201616628052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_31
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1372
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eac3b6d933409640800000000000000
+      internalID: 5084637894995593957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1274
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1777de79ed5bb610800000000000000
+      internalID: 1638006146916120350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1274
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85389a08cb111b850800000000000000
+      internalID: 6390908847525561176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1274
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbffcfa939badbd70800000000000000
+      internalID: 9060586675788119996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_35
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1274
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbedbe79fcb420a50800000000000000
+      internalID: 6485829768346066623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7529d898887c02d90800000000000000
+      internalID: -7124475221262888361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_37
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1176
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178d86705f38c3a70800000000000000
+      internalID: 8808060059644385393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_38
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1176
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f31c0ef360cebf40800000000000000
+      internalID: 5746241710267831288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_39
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1176
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23b149cc01a94340800000000000000
+      internalID: 4848583550129255212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb1827668128c6d0800000000000000
+      internalID: -2970087093110826017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_41
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1078
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba682c15e0ab719c0800000000000000
+      internalID: -3956489176957679957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_42
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1078
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56d8505fd1fedb50800000000000000
+      internalID: 6619994443709208158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_43
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1078
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c252a69ae20d04e0800000000000000
+      internalID: -2013950251791920448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa861183c6982d30800000000000000
+      internalID: 4406938001810557682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 980
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd888fcd645959ef0800000000000000
+      internalID: -102011284958443301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_46
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 980
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06a89ed9fe6e4cf0800000000000000
+      internalID: -266153308507822578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_47
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 980
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33841dfd6aeb6b30800000000000000
+      internalID: 4281773628864103230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ef1ccf7a781a520800000000000000
+      internalID: 2711597606223609347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 882
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e57979776e58fa0800000000000000
+      internalID: -5798975543850869247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_50
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 882
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9647f7b74391ff560800000000000000
+      internalID: 7349620830092883049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_51
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 882
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e0b7bd36b596a40800000000000000
+      internalID: 5361917315803450983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dfb35c7c7ee7c40800000000000000
+      internalID: 5512097839141617054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 784
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee589945ac9dd540800000000000000
+      internalID: 5034352192188341984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_54
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 784
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412820c421be3d400800000000000000
+      internalID: 347880060054831636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_55
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 784
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468a861a7f89a6850800000000000000
+      internalID: 6371072812201322596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3981deef65d45f990800000000000000
+      internalID: -7352885780572989293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_57
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 686
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4604f4ac694b4c790800000000000000
+      internalID: -7510679718814859164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_58
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 686
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954a7da09d8a263c0800000000000000
+      internalID: -4367743038452685735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_59
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 686
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fc6220b1f837fb0800000000000000
+      internalID: -4651216643980603542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6cb1c32fdeae6e0800000000000000
+      internalID: -1807370675789510923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_61
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 588
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddf5aa8152f40a80800000000000000
+      internalID: -8501403764536246829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_62
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 588
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4385f70ab31a1a70800000000000000
+      internalID: 8798366511740060490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_63
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 588
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96ed9a889449a940800000000000000
+      internalID: 5307849057784161951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0d8b9ef1a9177f0800000000000000
+      internalID: -616542212117180252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_65
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 490
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40e90d4e6b3c6240800000000000000
+      internalID: 4786265848912928842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_66
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 490
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0f8548499db9550800000000000000
+      internalID: 6168763346512834756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_67
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 490
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20b47e0538ee1b00800000000000000
+      internalID: 801333098291965995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b78e6f0157a90930800000000000000
+      internalID: 4110000101545379768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_69
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 392
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17eed21741bf63380800000000000000
+      internalID: -8991723540781863311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_70
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 392
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a7e056013cfd730800000000000000
+      internalID: 4026151067074853409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_71
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 392
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95aaf17c0186bbb0800000000000000
+      internalID: -4920603652403845734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63f0dd5d57b60a60800000000000000
+      internalID: 7639995429514441579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 294
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa18dca554bef7450800000000000000
+      internalID: 6088843904336888239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_74
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 294
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265908776d192e790800000000000000
+      internalID: -7502273678931880606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_75
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 294
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808717f77e3851060800000000000000
+      internalID: 6923585032450832392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf257bb9b3ff0890800000000000000
+      internalID: -7489499676254326836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_77
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 196
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67bf99cdb0ee7350800000000000000
+      internalID: 6016493257949689711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_78
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 196
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382fb295995cd4490800000000000000
+      internalID: -7760329320472776061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_79
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 196
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d93b81588017440800000000000000
+      internalID: 4931732434685500699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e41cb971961b6210800000000000000
+      internalID: 1327179329259181287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 98
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d077549a3cfdf140800000000000000
+      internalID: 4755234110100173017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_82
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 98
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823487d8d9c6d3c40800000000000000
+      internalID: 5493666544401007400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_83
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 98
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc2071d889b20c10800000000000000
+      internalID: 2018379580295884026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfce870f505d9700800000000000000
+      internalID: 548683098687983556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16875bf65c266b200800000000000000
+      internalID: 195452233959438433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_86
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a1826985ee5e140800000000000000
+      internalID: 4748463446375799395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartianSaucer_87
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 212
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825fc04fb4b1744c0800000000000000
+      internalID: -4303440905898232536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
