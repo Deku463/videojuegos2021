@@ -4,18 +4,22 @@ using UnityEngine;
 
 public class playerFire : MonoBehaviour
 {
+    public float speed = 5f;
+    public LayerMask collisions;
+    public Transform[] waypoints;
 
-    public Transform firepoint;
-    public ParticleSystem bullet_ps;
+    private void Start()
+    {
+        
+    }
 
     private void Update()
     {
-        if (Input.GetButton("Fire1"))
-        {
-            Debug.Log("AAAA");
-            bullet_ps.Emit(1);
-        }
+        //Mov. hacia el frente
+        Vector3 targetMovement = Vector3.right * speed * Time.deltaTime;
+        transform.Translate(targetMovement, Space.World);
+
+
+
     }
-
-
 }
