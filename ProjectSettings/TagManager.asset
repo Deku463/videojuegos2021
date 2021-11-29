@@ -7,11 +7,13 @@ TagManager:
   - Ground
   - Kill
   - bullet
+  - core
+  - coco
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Wall
   - Water
   - UI
   - Ground

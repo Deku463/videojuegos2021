@@ -5197,6 +5197,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1350ad29c74ecd84a976b6cfc79aa07e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  size: 5
   speed: 50
   bulletFireRate: 1
   damage: 2
@@ -5314,8 +5315,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caf4baf807555f04d926f5d97067f504, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  firepoint: {fileID: 370841003}
-  bullet_ps: {fileID: 579890871}
+  speed: 1
+  collisions:
+    serializedVersion: 2
+    m_Bits: 0
+  waypoints: []
 --- !u!4 &929147444
 Transform:
   m_ObjectHideFlags: 0
